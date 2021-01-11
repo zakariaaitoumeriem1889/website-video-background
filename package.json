@@ -1,0 +1,13 @@
+{
+  "name": "website-video-background",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zakaria AITOUMERIEM <zakariaaitoumeriem1889@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "start": "live-server"
+  }
+}
